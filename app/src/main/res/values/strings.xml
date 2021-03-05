@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserInteraction</string>
+    <string name="btn_add_count">Добавить</string>
+    <string name="counter_value">Значение %d</string>
+</resources>
